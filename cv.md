@@ -1,3 +1,4 @@
+![main photo](/photo1.jpg "My photo")
 # Konstantin Karpov
 ## Contacts
 * Tel: **+79147060015**
@@ -12,10 +13,11 @@ I have been doing offline business in the field of trade for 15 years. I also do
 * **Photoshop, Lightroom**
 ## Code example
 `not yet`
+## Project
+[My CV](https://github.com/karpovkottt/rsschool-cv/edit/gh-pages/cv.md "My project")
 ## Education
 * **Far Eastern State Technical University**
     + specialty: acoustic devices and systems
 ## Languages
 * Russian
 * English
-![main photo](/photo1.jpg "My photo")
