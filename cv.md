@@ -12,3 +12,10 @@ I have been doing offline business in the field of trade for 15 years. I also do
 * **Photoshop, Lightroom**
 ## Code example
 `not yet`
+## Education
+* **Far Eastern State Technical University**
+    + specialty: acoustic devices and systems
+## Languages
+* Russian
+* English
+![main photo](/photo1.jpg "My photo")
