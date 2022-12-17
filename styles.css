@@ -48,3 +48,6 @@ html {
 .nav-item a:hover {
   color: #4d2323;
 }
+.bold {
+  font-weight: bold;
+}
