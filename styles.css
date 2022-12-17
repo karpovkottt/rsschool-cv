@@ -7,6 +7,16 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+h1 {
+  color: black;
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+.section-title {
+  font-size: 20px;
+  letter-spacing: 3px;
+  color: #829985;
+}
 * {
   box-sizing: border-box;
 }
@@ -62,4 +72,24 @@ html {
 }
 .bold {
   font-weight: bold;
+}
+.contact-item {
+  letter-spacing: 1px;
+}
+.skills-item {
+  letter-spacing: 1px;
+}
+.languages-item {
+  letter-spacing: 3px;
+}
+.education {
+  letter-spacing: 1px;
+}
+.project-item a {
+  text-decoration: none;
+  color: #4d2323;
+  transition: 0.5s;
+}
+.project-item a:hover {
+  color: #829985;
 }
