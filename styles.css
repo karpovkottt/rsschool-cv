@@ -93,3 +93,6 @@ html {
 .project-item a:hover {
   color: #829985;
 }
+.image-my {
+  border-radius: 30px;
+}
