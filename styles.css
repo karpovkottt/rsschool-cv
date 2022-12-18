@@ -1,0 +1,141 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: tahoma, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+h1 {
+  color: black;
+  font-size: 25px;
+  letter-spacing: 3px;
+  display: inline-flex;
+  float: right;
+  margin: 60px 40px 0 0;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid #829985;
+}
+.section-title {
+  font-size: 20px;
+  letter-spacing: 3px;
+  color: #829985;
+  margin-left: 20px;
+
+}
+.header {
+  border: 1px solid rgb(133, 131, 131);
+  background-color: gainsboro;
+}
+.main {
+  border: 1px solid rgb(133, 131, 131);
+}
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.section {
+  width: 50%;
+  padding-left: 20px;
+  border-bottom: 2px solid rgb(133, 131, 131);
+}
+.footer {
+  border: 1px solid rgb(133, 131, 131);
+  background-color: gainsboro;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+html {
+  scroll-behavior: smooth;
+}
+.nav-list {
+  list-style: none;
+}
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  font-size: 20px;
+  transition: .3s;
+}
+.nav-item a {
+  color: #829985;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+.nav-item a:hover {
+  color: #4d2323;
+}
+.bold {
+  font-weight: bold;
+}
+.contact-item {
+  letter-spacing: 1px;
+}
+.skills-item {
+  letter-spacing: 1px;
+}
+.languages-item {
+  letter-spacing: 3px;
+}
+.education {
+  letter-spacing: 1px;
+}
+.project-item a {
+  text-decoration: none;
+  color: #4d2323;
+  transition: 0.5s;
+}
+.project-item a:hover {
+  color: #829985;
+}
+.image-my {
+  border-radius: 30px;
+}
+.text-about {
+  text-align: justify;
+}
+.git-link {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  display: inline-flex;
+  letter-spacing: 1px;
+  margin: 20px;
+}
+.footer-text {
+  display: inline;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+a {
+  text-decoration: none;
+  color: #829985;
+  transition: 0.5s;
+}
+a:hover {
+  color: #4d2323;
+}
+.foot-img {
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
